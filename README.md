@@ -2,11 +2,6 @@
 
 A simple, interactive Rock Paper Scissors game built using vanilla JavaScript, HTML, and CSS — play against the computer with real-time score tracking and instant win/lose/draw feedback.
 
-🔴 Live Demo
-
-Play it here
-
-<!-- Add your Netlify link once deployed, e.g. https://rock-paper-scissors-sanidhya.netlify.app -->
 📸 Screenshot
 
 Add a screenshot of your game here
