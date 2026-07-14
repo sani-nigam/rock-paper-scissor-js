@@ -4,8 +4,9 @@ A simple, interactive Rock Paper Scissors game built using vanilla JavaScript, H
 
 📸 Screenshot
 
-Add a screenshot of your game here
+
 ![Rock Paper Scissors Screenshot](screenshot.png)
+
 ✨ Features
 
 
@@ -35,19 +36,19 @@ JavaScript (Vanilla) — game logic, DOM manipulation, event listeners
 🚀 How to Run Locally
 
 
-Clone the repository
+1-Clone the repository
 
 
 bash   git clone https://github.com/your-username/rock-paper-scissors.git
 
 
-Navigate into the project folder
+2-Navigate into the project folder
 
 
 bash   cd rock-paper-scissors
 
 
-Open index.html in your browser
+3-Open index.html in your browser
 
 
 bash   open index.html
